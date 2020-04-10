@@ -40,7 +40,7 @@ To get a local copy up and running follow these simple example steps.
 
 - Github: [@Ferm0494](https://github.com/Ferm0494)
 - Twitter: [@ferm494](https://twitter.com/ferm494)
-- Linkedin: [linkedin](https://www.linkedin.com/in/fernando-rivas-5bbb41147/)
+- Linkedin: [@Ferm0494](https://www.linkedin.com/in/fernando-rivas-5bbb41147/)
 
 
 ## 🤝 Contributing
